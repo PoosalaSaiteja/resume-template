@@ -25,7 +25,7 @@ function printpdf() {
         html2canvas: {
             scale: 1,
             logging: true,
-            dpi: 500
+            dpi: 600
         }
     });
 }
